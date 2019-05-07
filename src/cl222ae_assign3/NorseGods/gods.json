@@ -1,0 +1,44 @@
+{
+  "Gods": [
+    {
+      "name": "Fenrir",
+      "race": "Giants",
+      "desc": "Fenrir (pronounced “FEN-rir;” Old Norse Fenrir, “He Who Dwells in the Marshes”[1]) is the most infamous of the many wolves in Norse mythology. His importance for the pre-Christian Scandinavians is demonstrated by his being depicted on numerous surviving runestones, not to mention his ubiquity in Old Norse literary sources. He’s the son of the god Loki and the giantess Angrboda, which makes him the brother of the serpent Jormungand and the underworld goddess Hel. As is recounted more fully in the tale The Binding of Fenrir, the Aesir gods raised Fenrir themselves in order to keep him under their control and prevent him from wreaking havoc throughout the Nine Worlds. He grew at an astonishingly fast pace, however, and eventually the troubled gods decided to chain him up. Their first two attempts were unsuccessful; while the cunning gods convinced Fenrir that it was only a game, a test of his strength, he broke through the fetters easily. For their third attempt, the gods had the dwarves forge the strongest chain ever built, which nevertheless gave the appearance of being very light and even soft to the touch. \n\nWhen the gods presented Fenrir with this third fetter, he became suspicious, and he refused to be bound with it unless one of the gods would stick his or her hand in his mouth as a pledge of good faith. Only Tyr was brave enough to do this, knowing that it would mean the loss of his hand. And, sure enough, when Fenrir found himself unable to break free of his bonds, he ripped Tyr’s hand from its arm. The chain was then tied to a boulder and a sword was placed in Fenrir’s jaws to hold them open. As he howled wildly and ceaselessly, a foamy river called “Expectation” (Old Norse Ván) flowed from his drooling mouth.[2]"
+    },
+    {
+      "name": "Odin",
+      "race": "Aesir",
+      "desc": "Odin (pronounced “OH-din”; Old Norse Óðinn, Old English and Old Saxon Woden, Old High German Wuotan, Wotan, or Wodan, Proto-Germanic *Woðanaz, “Master of Ecstasy”) is one of the most complex and enigmatic characters in Norse mythology, and perhaps in all of world literature. He’s the ruler of the Aesir tribe of deities, yet he often ventures far from their kingdom, Asgard, on long, solitary wanderings throughout the cosmos on purely self-interested quests. He’s a relentless seeker after and giver of wisdom, but he has little regard for communal values such as justice, fairness, or respect for law and convention. He’s the divine patron of rulers, and also of outlaws. He’s a war-god, but also a poetry-god, and he has prominent “effeminate” qualities that would have brought unspeakable shame to any historical Viking warrior. \n\nHe’s worshiped by those in search of prestige, honor, and nobility, yet he’s often cursed for being a fickle trickster. What kind of literary figure – let alone a god whose historical worship spanned much of a continent and several centuries – could possibly embody all of these qualities at once, with their apparently glaring contradictions?"
+    },
+    {
+      "name": "Freya",
+      "race": "Vanir",
+      "desc": "Freya (Old Norse Freyja, “Lady”) is one of the preeminent goddesses in Norse mythology. She’s a member of the Vanir tribe of deities, but became an honorary member of the Aesir gods after the Aesir-Vanir War. Her father is Njord. Her mother is unknown, but could be Nerthus. Freyr is her brother. Her husband, named Odr in late Old Norse literature, is certainly none other than Odin, and, accordingly, Freya is ultimately identical with Odin’s wife Frigg (see below for a discussion of this).\nFreya is famous for her fondness of love, fertility, beauty, and fine material possessions – and, because of these predilections, she’s considered to be something of the “party girl” of the Aesir. \n\nIn one of the Eddic poems, for example, Loki accuses Freya (probably accurately) of having slept with all of the gods and elves, including her brother.[1] She’s certainly a passionate seeker after pleasures and thrills, but she’s a lot more than only that. Freya is the archetype of the völva, a professional or semiprofessional practitioner of seidr, the most organized form of Norse magic. It was she who first brought this art to the gods,[2] and, by extension, to humans as well. Given her expertise in controlling and manipulating the desires, health, and prosperity of others, she’s a being whose knowledge and power are almost without equal."
+    },
+    {
+      "name": "Ymir",
+      "race": "Giants",
+      "desc": "Ymir (pronounced roughly “EE-mir;” Old Norse Ymir, “Screamer”[1]) is a hermaphroditic giant and the first creature to come into being in the Norse creation myth. As the first giant, he’s the ancestor of all of the other giants – and, since almost all of the gods are partially descended from giants, he’s their ancestor as well. Another name for Ymir in some Old Norse poems is Aurgelmir (“Sand/Gravel Screamer”).[2]\nAccording to the medieval Icelandic scholar Snorri Sturluson, Ymir was born when fire from Muspelheim and ice from Niflheim met in the abyss of Ginnungagap. Ymir was suckled by the cow Audhumla for his nourishment. When he slept, several other giants were conceived asexually in Ymir’s hermaphroditic body, and spontaneously sprang from his legs and the sweat from his armpits."
+    },
+    {
+      "name": "Bragi",
+      "race": "Aesir",
+      "desc": "Bragi (pronounced “BRAG-ee;” Old Norse Bragi, “Poet”) is the wise and learned bard (Old Norse þulr, pronounced “THOOL-ur”) of Valhalla, the magnificent hall of the god Odin. Old Norse poetry from the Viking Age frequently features him regaling the einherjar, the dead who dwell in Valhalla, and welcoming recently deceased heroes into their midst.[1] One Eddic poem depicts him as having runes carved on his tongue.[2]\nBragi was originally the historical ninth-century bard Bragi Boddason. His poems were so outstandingly artful and moving that subsequent generations imagined that, upon his death, Odin had appointed him the court poet of Valhalla. After all, a troop of elite warriors, kings, and others favored by Odin needed an elite bard to sing of their countless exploits.[3]"
+    },
+    {
+      "name": "Tyr",
+      "race": "Aesir",
+      "desc": "Tyr (pronounced like the English word “tier”; Old Norse Týr, Old English Tiw, Old High German *Ziu, Gothic Tyz, Proto-Germanic *Tiwaz, “god”[1][2]) is a Norse war god, but also the god who, more than any other, presides over matters of law and justice. His role in the surviving Viking Age myths is relatively slight, and his status in the later part of the Viking Age may have been correspondingly minor. But this wasn’t always the case. Other kinds of evidence show us that Tyr was once one of the most important gods to the Norse and other Germanic peoples.\n\nWar, Law, and Justice"
+    },
+    {
+      "name": "Skadi",
+      "race": "Giants",
+      "desc": "Skadi (pronounced “SKAHD-ee;” Old Norse Skaði) is a giantess and goddess in Norse mythology. Her name is either identical with the Old Norse common noun skaði, “harm,” or comes from another Germanic root preserved in the Gothic word skadus and the Old English sceadu, both of which mean “shadow.”[1] Her name is likely related to the name “Scandinavia,” but whether Skadi lent her name to the land-mass or vice versa is uncertain.[2]\n\nSkadi lives in the highest reaches of the mountains, where the snow never melts. She’s an avid huntress, and her bow, snowshoes, and skis are her most often-mentioned attributes.[3][4][5]\n\nShe was once married to the god Njord. However, their marriage was a failure; Njord couldn’t stand the cold and dreariness of the mountains, and Skadi couldn’t stand the light and noise of Njord’s home by the seashore, so the two parted ways."
+    },
+    {
+      "name": "Njord",
+      "race": "Vanir",
+      "desc": "Njord (pronounced “NYORD;” Old Norse Njörðr, whose meaning/etymology is unknown) is one of the principal gods of the Vanir tribe of deities. He’s also an honorary member of the Aesir gods, having been sent to them during the Aesir-Vanir War along with his son, Freyr, and his daughter, Freya. Freyr and Freya’s mother is Njord’s unnamed sister, who, based on linguistic evidence, is probably Nerthus or an equivalent goddess. \n\nNjord was particularly associated with wealth, fertility, the sea, and seafaring in the Vikings’ religion.[1][2] A saying among the Norse peoples held especially wealthy people to be “as rich as Njord."
+    }
+  ]
+}
