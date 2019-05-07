@@ -3,5 +3,6 @@
 /.settings/
 /bin/
 /javafx-sdk-11.0.2/
+.xchart-3.5.4.jar
 
 
